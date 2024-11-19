@@ -1,0 +1,892 @@
+Uri: https://fonts.googleapis.com/css2?family=DM+Mono:wght@300;400;500&family=Syne:wght@400;500;600;700;800&display=swap
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dmmono/v14/aFTR7PB1QTsUX8KYvrGyIYQ.ttf
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\s\dmmono\v14\aFTR7PB1QTsUX8KYvrGyIYQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmmono/v14/aFTR7PB1QTsUX8KYvumzIYQ.ttf
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\s\dmmono\v14\aFTR7PB1QTsUX8KYvumzIYQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmmono/v14/aFTU7PB1QTsUX8KYhh0.ttf
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\s\dmmono\v14\aFTU7PB1QTsUX8KYhh0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/syne/v22/8vIS7w4qzmVxsWxjBZRjr0FKM_04uT6k.ttf
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\s\syne\v22\8vIS7w4qzmVxsWxjBZRjr0FKM_04uT6k.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/syne/v22/8vIS7w4qzmVxsWxjBZRjr0FKM_0KuT6k.ttf
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\s\syne\v22\8vIS7w4qzmVxsWxjBZRjr0FKM_0KuT6k.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/syne/v22/8vIS7w4qzmVxsWxjBZRjr0FKM_24vj6k.ttf
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\s\syne\v22\8vIS7w4qzmVxsWxjBZRjr0FKM_24vj6k.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/syne/v22/8vIS7w4qzmVxsWxjBZRjr0FKM_3fvj6k.ttf
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\s\syne\v22\8vIS7w4qzmVxsWxjBZRjr0FKM_3fvj6k.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/syne/v22/8vIS7w4qzmVxsWxjBZRjr0FKM_3mvj6k.ttf
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\s\syne\v22\8vIS7w4qzmVxsWxjBZRjr0FKM_3mvj6k.ttf
+Content Type: font/ttf
+
+Uri: https://trionn.com/
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\index.htm
+Content Type: text/html
+
+Uri: https://trionn.com/about
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\about.html
+Content Type: text/html
+
+Uri: https://trionn.com/assets/audio/roar.mp3
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\audio\roar.mp3
+Content Type: audio/mpeg
+
+Uri: https://trionn.com/assets/audio/switch.mp3
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\audio\switch.mp3
+Content Type: audio/mpeg
+
+Uri: https://trionn.com/assets/audio/whoosh.mp3
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\audio\whoosh.mp3
+Content Type: audio/mpeg
+
+Uri: https://trionn.com/assets/images/awards/adesignaward.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\awards\adesignaward.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/awards/awwwards.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\awards\awwwards.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/awards/cssda.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\awards\cssda.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/awards/cssguru.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\awards\cssguru.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/awards/cssreel.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\awards\cssreel.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/awards/csswinner.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\awards\csswinner.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/clients/albert-mizuno.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\clients\albert-mizuno.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/clients/anonymous.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\clients\anonymous.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/clients/arakhim.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\clients\arakhim.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/clients/betterpenny.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\clients\betterpenny.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/clients/casting-networks.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\clients\casting-networks.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/clients/credible.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\clients\credible.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/clients/dana-cohen.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\clients\dana-cohen.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/clients/dmitry-genin.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\clients\dmitry-genin.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/clients/doug-petrie.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\clients\doug-petrie.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/clients/essence-realty.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\clients\essence-realty.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/clients/fast-resume.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\clients\fast-resume.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/clients/flowrow.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\clients\flowrow.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/clients/foreverdolls.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\clients\foreverdolls.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/clients/helm.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\clients\helm.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/clients/hulamaids.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\clients\hulamaids.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/clients/jean-baptiste-biolay.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\clients\jean-baptiste-biolay.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/clients/john-halley.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\clients\john-halley.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/clients/joonko.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\clients\joonko.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/clients/kirk-anderson.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\clients\kirk-anderson.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/clients/known-singles.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\clients\known-singles.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/clients/larry-lake.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\clients\larry-lake.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/clients/luxurypresence.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\clients\luxurypresence.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/clients/malte-kramer.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\clients\malte-kramer.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/clients/ockto.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\clients\ockto.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/clients/reyden.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\clients\reyden.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/clients/spotlight-news.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\clients\spotlight-news.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/clients/stephen-dash.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\clients\stephen-dash.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/clients/technis.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\clients\technis.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/clients/tyler-swenson.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\clients\tyler-swenson.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/clients/yellowtail.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\clients\yellowtail.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/clients/zoltan-csonka.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\clients\zoltan-csonka.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/dribbble/dribbble1.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\dribbble\dribbble1.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/dribbble/dribbble2.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\dribbble\dribbble2.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/dribbble/dribbble3.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\dribbble\dribbble3.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/dribbble/dribbble4.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\dribbble\dribbble4.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/dribbble/dribbble5.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\dribbble\dribbble5.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/dribbble/dribbble6.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\dribbble\dribbble6.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/events/1.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\events\1.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/events/10.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\events\10.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/events/11.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\events\11.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/events/12.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\events\12.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/events/13.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\events\13.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/events/14.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\events\14.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/events/2.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\events\2.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/events/3.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\events\3.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/events/4.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\events\4.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/events/5.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\events\5.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/events/6.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\events\6.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/events/7.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\events\7.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/events/8.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\events\8.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/events/9.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\events\9.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/expertise/angular.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\expertise\angular.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/expertise/bootstrap.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\expertise\bootstrap.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/expertise/css3.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\expertise\css3.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/expertise/figma.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\expertise\figma.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/expertise/html5.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\expertise\html5.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/expertise/jquery.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\expertise\jquery.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/expertise/js.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\expertise\js.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/expertise/jsfoundation.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\expertise\jsfoundation.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/expertise/laravel.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\expertise\laravel.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/expertise/less.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\expertise\less.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/expertise/magento.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\expertise\magento.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/expertise/nextjs.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\expertise\nextjs.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/expertise/nodejs.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\expertise\nodejs.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/expertise/php.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\expertise\php.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/expertise/react.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\expertise\react.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/expertise/sass.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\expertise\sass.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/expertise/shopify.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\expertise\shopify.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/expertise/sketch.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\expertise\sketch.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/expertise/tailwindcss.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\expertise\tailwindcss.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/expertise/wordpress.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\expertise\wordpress.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/expertise/xd.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\expertise\xd.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/home/intro-video.mp4
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\home\intro-video.mp4
+Content Type: video/mp4
+
+Uri: https://trionn.com/assets/images/line-arrow-light.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\line-arrow-light.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/line-arrow.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\line-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/lion-404-light.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\lion-404-light.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/lion-404-mobile-light.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\lion-404-mobile-light.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/lion-404-mobile.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\lion-404-mobile.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/lion-404.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\lion-404.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/lion-eye-404-light.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\lion-eye-404-light.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/lion-eye-404-mobile-light.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\lion-eye-404-mobile-light.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/lion-eye-404-mobile.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\lion-eye-404-mobile.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/lion-eye-404.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\lion-eye-404.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/socials/behance.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\socials\behance.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/socials/dribble.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\socials\dribble.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/socials/facebook.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\socials\facebook.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/socials/instagram.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\socials\instagram.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/socials/linkedin.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\socials\linkedin.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/assets/images/team/ayaz_kadri.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\team\ayaz_kadri.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/team/bhagirathsinh_jadeja.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\team\bhagirathsinh_jadeja.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/team/dhaval_bhadukiya.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\team\dhaval_bhadukiya.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/team/dhruv_solanki.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\team\dhruv_solanki.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/team/gaurav_joshi.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\team\gaurav_joshi.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/team/nilesh_gujarati.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\team\nilesh_gujarati.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/team/prabhatsinh_maka.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\team\prabhatsinh_maka.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/team/rahul_solanki.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\team\rahul_solanki.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/team/rushi_vasani.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\team\rushi_vasani.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/team/sandip_rathod.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\team\sandip_rathod.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/team/sunny_rathod.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\team\sunny_rathod.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/team/umang_vaghamshi.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\team\umang_vaghamshi.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/team/vaishnavi_kacha.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\team\vaishnavi_kacha.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/team/viral_maru.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\team\viral_maru.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/torch.png
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\torch.png
+Content Type: image/png
+
+Uri: https://trionn.com/assets/images/works/8octa/8octa-main.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\works\8octa\8octa-main.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/works/aeomax/aeomax-main.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\works\aeomax\aeomax-main.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/works/better-penny/better-penny-main.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\works\better-penny\better-penny-main.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/works/crowdmouth/crowdmouth-main.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\works\crowdmouth\crowdmouth-main.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/works/essence-realty/essence-realty-main.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\works\essence-realty\essence-realty-main.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/works/fast-resume/fast-resume-main.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\works\fast-resume\fast-resume-main.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/works/financr/financr-main.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\works\financr\financr-main.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/works/flow-row/flow-row-main.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\works\flow-row\flow-row-main.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/works/forever-dolls/forever-dolls-main.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\works\forever-dolls\forever-dolls-main.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/works/homebid/homebid-main.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\works\homebid\homebid-main.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/works/imusic/imusic-main-landscape.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\works\imusic\imusic-main-landscape.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/works/imusic/imusic-main.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\works\imusic\imusic-main.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/works/keypro/keypro-main.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\works\keypro\keypro-main.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/works/loftloom/loftloom-main-landscape.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\works\loftloom\loftloom-main-landscape.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/works/loftloom/loftloom-main.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\works\loftloom\loftloom-main.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/works/merit-global/merit-global-main.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\works\merit-global\merit-global-main.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/works/metagram/metagram-main.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\works\metagram\metagram-main.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/works/monotex/monotex-main.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\works\monotex\monotex-main.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/works/ogre/ogre-main.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\works\ogre\ogre-main.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/works/reyden/reyden-main.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\works\reyden\reyden-main.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/works/shore/shore-main.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\works\shore\shore-main.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/works/stuffosome/stuffosome-main.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\works\stuffosome\stuffosome-main.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/works/technis/technis-main-landscape.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\works\technis\technis-main-landscape.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/assets/images/works/technis/technis-main.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\assets\images\works\technis\technis-main.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/contact
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\contact.html
+Content Type: text/html
+
+Uri: https://trionn.com/favicon.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\favicon.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/fonts/Dirtyline36Daysoftype2022-Reg.eot
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\fonts\Dirtyline36Daysoftype2022-Reg.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://trionn.com/fonts/Dirtyline36Daysoftype2022-Reg.eot?
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\fonts\Dirtyline36Daysoftype2022-Reg-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://trionn.com/fonts/Dirtyline36Daysoftype2022-Reg.ttf
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\fonts\Dirtyline36Daysoftype2022-Reg.ttf
+Content Type: font/ttf
+
+Uri: https://trionn.com/fonts/Dirtyline36Daysoftype2022-Reg.woff
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\fonts\Dirtyline36Daysoftype2022-Reg.woff
+Content Type: font/woff
+
+Uri: https://trionn.com/fonts/Dirtyline36Daysoftype2022-Reg.woff2
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\fonts\Dirtyline36Daysoftype2022-Reg.woff2
+Content Type: font/woff2
+
+Uri: https://trionn.com/namestory
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\namestory.html
+Content Type: text/html
+
+Uri: https://trionn.com/services
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\services.html
+Content Type: text/html
+
+Uri: https://trionn.com/team
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\team.html
+Content Type: text/html
+
+Uri: https://trionn.com/work
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\work.html
+Content Type: text/html
+
+Uri: https://trionn.com/work/8octa
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\work\8octa.html
+Content Type: text/html
+
+Uri: https://trionn.com/work/aeomax
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\work\aeomax.html
+Content Type: text/html
+
+Uri: https://trionn.com/work/better-penny
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\work\better-penny.html
+Content Type: text/html
+
+Uri: https://trionn.com/work/crowdmouth
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\work\crowdmouth.html
+Content Type: text/html
+
+Uri: https://trionn.com/work/essence-realty
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\work\essence-realty.html
+Content Type: text/html
+
+Uri: https://trionn.com/work/fast-resume
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\work\fast-resume.html
+Content Type: text/html
+
+Uri: https://trionn.com/work/financr
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\work\financr.html
+Content Type: text/html
+
+Uri: https://trionn.com/work/flow-row
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\work\flow-row.html
+Content Type: text/html
+
+Uri: https://trionn.com/work/forever-dolls
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\work\forever-dolls.html
+Content Type: text/html
+
+Uri: https://trionn.com/work/homebid
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\work\homebid.html
+Content Type: text/html
+
+Uri: https://trionn.com/work/imusic
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\work\imusic.html
+Content Type: text/html
+
+Uri: https://trionn.com/work/keypro
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\work\keypro.html
+Content Type: text/html
+
+Uri: https://trionn.com/work/loftloom
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\work\loftloom.html
+Content Type: text/html
+
+Uri: https://trionn.com/work/merit-global
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\work\merit-global.html
+Content Type: text/html
+
+Uri: https://trionn.com/work/metagram
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\work\metagram.html
+Content Type: text/html
+
+Uri: https://trionn.com/work/monotex
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\work\monotex.html
+Content Type: text/html
+
+Uri: https://trionn.com/work/ogre
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\work\ogre.html
+Content Type: text/html
+
+Uri: https://trionn.com/work/reyden
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\work\reyden.html
+Content Type: text/html
+
+Uri: https://trionn.com/work/shore
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\work\shore.html
+Content Type: text/html
+
+Uri: https://trionn.com/work/stuffosome
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\work\stuffosome.html
+Content Type: text/html
+
+Uri: https://trionn.com/work/technis
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\work\technis.html
+Content Type: text/html
+
+Uri: https://trionn.com/work/[slug]
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\work\[slug].html
+Content Type: text/html
+
+Uri: https://trionn.com/_next/static/chunks/556-253e24e565384f29.js
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\_next\static\chunks\556-253e24e565384f29.js
+Content Type: application/javascript
+
+Uri: https://trionn.com/_next/static/chunks/732-25e5734f28f3ddf3.js
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\_next\static\chunks\732-25e5734f28f3ddf3.js
+Content Type: application/javascript
+
+Uri: https://trionn.com/_next/static/chunks/bd1a647f-53d864059a610ebb.js
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\_next\static\chunks\bd1a647f-53d864059a610ebb.js
+Content Type: application/javascript
+
+Uri: https://trionn.com/_next/static/chunks/framework-5429a50ba5373c56.js
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\_next\static\chunks\framework-5429a50ba5373c56.js
+Content Type: application/javascript
+
+Uri: https://trionn.com/_next/static/chunks/main-18a986b8471251f8.js
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\_next\static\chunks\main-18a986b8471251f8.js
+Content Type: application/javascript
+
+Uri: https://trionn.com/_next/static/chunks/pages/about-73214a2414593e2e.js
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\_next\static\chunks\pages\about-73214a2414593e2e.js
+Content Type: application/javascript
+
+Uri: https://trionn.com/_next/static/chunks/pages/contact-d5d24b4933415034.js
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\_next\static\chunks\pages\contact-d5d24b4933415034.js
+Content Type: application/javascript
+
+Uri: https://trionn.com/_next/static/chunks/pages/index-fa4dcb2e6a726705.js
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\_next\static\chunks\pages\index-fa4dcb2e6a726705.js
+Content Type: application/javascript
+
+Uri: https://trionn.com/_next/static/chunks/pages/namestory-6a8890a81e66a956.js
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\_next\static\chunks\pages\namestory-6a8890a81e66a956.js
+Content Type: application/javascript
+
+Uri: https://trionn.com/_next/static/chunks/pages/services-e0c3fb76a540360d.js
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\_next\static\chunks\pages\services-e0c3fb76a540360d.js
+Content Type: application/javascript
+
+Uri: https://trionn.com/_next/static/chunks/pages/team-7e006c97375fe8fe.js
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\_next\static\chunks\pages\team-7e006c97375fe8fe.js
+Content Type: application/javascript
+
+Uri: https://trionn.com/_next/static/chunks/pages/work-7117253d4b4ad87a.js
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\_next\static\chunks\pages\work-7117253d4b4ad87a.js
+Content Type: application/javascript
+
+Uri: https://trionn.com/_next/static/chunks/pages/work/[slug]-bd12f16a2ee0eccb.js
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\_next\static\chunks\pages\work\[slug]-bd12f16a2ee0eccb.js
+Content Type: application/javascript
+
+Uri: https://trionn.com/_next/static/chunks/pages/_app-79735ddd282671a4.js
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\_next\static\chunks\pages\_app-79735ddd282671a4.js
+Content Type: application/javascript
+
+Uri: https://trionn.com/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\_next\static\chunks\polyfills-c67a75d1b6f99dc8.js
+Content Type: application/javascript
+
+Uri: https://trionn.com/_next/static/chunks/webpack-1e9d3f973bd7f51f.js
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\_next\static\chunks\webpack-1e9d3f973bd7f51f.js
+Content Type: application/javascript
+
+Uri: https://trionn.com/_next/static/css/e10b8ab67b6fe656.css
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\_next\static\css\e10b8ab67b6fe656.css
+Content Type: text/css
+
+Uri: https://trionn.com/_next/static/media/apple-touch-icon-114x114.c3eb217f.png
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\_next\static\media\apple-touch-icon-114x114.c3eb217f.png
+Content Type: image/png
+
+Uri: https://trionn.com/_next/static/media/apple-touch-icon-120x120.c5031803.png
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\_next\static\media\apple-touch-icon-120x120.c5031803.png
+Content Type: image/png
+
+Uri: https://trionn.com/_next/static/media/apple-touch-icon-144x144.8c90c2f7.png
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\_next\static\media\apple-touch-icon-144x144.8c90c2f7.png
+Content Type: image/png
+
+Uri: https://trionn.com/_next/static/media/apple-touch-icon-152x152.5e11a0eb.png
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\_next\static\media\apple-touch-icon-152x152.5e11a0eb.png
+Content Type: image/png
+
+Uri: https://trionn.com/_next/static/media/apple-touch-icon-180x180.ff2c4ba1.png
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\_next\static\media\apple-touch-icon-180x180.ff2c4ba1.png
+Content Type: image/png
+
+Uri: https://trionn.com/_next/static/media/apple-touch-icon-57x57.0d7f70a8.png
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\_next\static\media\apple-touch-icon-57x57.0d7f70a8.png
+Content Type: image/png
+
+Uri: https://trionn.com/_next/static/media/apple-touch-icon-60x60.51b5eff2.png
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\_next\static\media\apple-touch-icon-60x60.51b5eff2.png
+Content Type: image/png
+
+Uri: https://trionn.com/_next/static/media/apple-touch-icon-72x72.63eb2b39.png
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\_next\static\media\apple-touch-icon-72x72.63eb2b39.png
+Content Type: image/png
+
+Uri: https://trionn.com/_next/static/media/apple-touch-icon-76x76.3f61f6ca.png
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\_next\static\media\apple-touch-icon-76x76.3f61f6ca.png
+Content Type: image/png
+
+Uri: https://trionn.com/_next/static/media/brahma.9e76bbd3.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\_next\static\media\brahma.9e76bbd3.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/_next/static/media/dribbble.1a51ca99.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\_next\static\media\dribbble.1a51ca99.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/_next/static/media/footer-logo.7dd398e2.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\_next\static\media\footer-logo.7dd398e2.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/_next/static/media/lion.02e625b7.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\_next\static\media\lion.02e625b7.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/_next/static/media/lion.082ab744.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\_next\static\media\lion.082ab744.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/_next/static/media/lion.2b10529a.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\_next\static\media\lion.2b10529a.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/_next/static/media/lion.8d65c3d2.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\_next\static\media\lion.8d65c3d2.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/_next/static/media/lion2.813c8d36.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\_next\static\media\lion2.813c8d36.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/_next/static/media/mahesh.bd6e7044.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\_next\static\media\mahesh.bd6e7044.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/_next/static/media/move-down.31fd25f2.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\_next\static\media\move-down.31fd25f2.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/_next/static/media/move-top.650752b8.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\_next\static\media\move-top.650752b8.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/_next/static/media/narasimha.20df08a8.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\_next\static\media\narasimha.20df08a8.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/_next/static/media/play.6bd15bb3.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\_next\static\media\play.6bd15bb3.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/_next/static/media/quote.e874f243.svg
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\_next\static\media\quote.e874f243.svg
+Content Type: image/svg+xml
+
+Uri: https://trionn.com/_next/static/media/vishnu.e3f8e5c7.webp
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\_next\static\media\vishnu.e3f8e5c7.webp
+Content Type: image/webp
+
+Uri: https://trionn.com/_next/static/YN0tZTuD2cj6v4n7-5yGw/_buildManifest.js
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\_next\static\YN0tZTuD2cj6v4n7-5yGw\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://trionn.com/_next/static/YN0tZTuD2cj6v4n7-5yGw/_ssgManifest.js
+File Name: C:\Users\umair\Desktop\Trionn\trionn.com\_next\static\YN0tZTuD2cj6v4n7-5yGw\_ssgManifest.js
+Content Type: application/javascript
+
